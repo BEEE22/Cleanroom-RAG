@@ -41,7 +41,6 @@ Cleanroom-RAG/
 ├── app.py                             # 页面搭建——Streamlit 主入口
 ├── requirements.txt                   # 依赖列表
 ├── data                               # 原始数据库
-├── scripts/                           # 向量库元数据相对路径修正（即将移除）
 ├── core/                              # 核心代码
 │   ├── utils/                         # 文件读取
 │   ├── Embeddings/                    # 文本嵌入
